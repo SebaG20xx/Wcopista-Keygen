@@ -16,7 +16,8 @@ El programa es de linea de comando y puede ser ejecutado de la siguiente manera
 *python wcopista.py*
 
 # Descargo de responsabilidad
-Este keygen ha sido desarrollado con el único propósito de demostrar y aprender sobre la técnicas de generación de codigos de activación El uso de este keygen para cualquier otro propósito, incluido el pirateo de software con derechos de autor, es estrictamente prohibido y puede constituir una violación de las leyes de propiedad intelectual y derechos de autor vigentes.
+Este keygen ha sido desarrollado con el único propósito de demostrar y aprender sobre la técnicas de generación de codigos de activación.
+El uso de este keygen para cualquier otro propósito, incluido el pirateo de software con derechos de autor, es estrictamente prohibido y puede constituir una violación de las leyes de propiedad intelectual y derechos de autor vigentes.
 
 Yo, no respaldo ni promuevo la piratería de ningún tipo. Recomiendo encarecidamente que solo se utilice este software para fines educativos, pruebas legales o en situaciones en las que se tenga permiso explícito del propietario legal del software para generar claves de activación.
 
