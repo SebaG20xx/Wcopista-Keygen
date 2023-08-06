@@ -13,7 +13,7 @@ por lo que este código realiza el mismo trabajo para entregar el código de act
 
 El programa es de linea de comando y puede ser ejecutado de la siguiente manera
 
-**python wcopista.py**
+**python wkeygen.py**
 
 # Descargo de responsabilidad
 Este keygen ha sido desarrollado con el único propósito de demostrar y aprender sobre la técnicas de generación de codigos de activación.
